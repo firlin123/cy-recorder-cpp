@@ -1,6 +1,5 @@
 #include "create_message.h"
 #include "to_json.h"
-#include <asio/io_context.hpp>
 #include <csignal>
 #include <future>
 #include <iostream>
