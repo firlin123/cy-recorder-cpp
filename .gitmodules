@@ -1,0 +1,6 @@
+[submodule "lib/socket.io-client-cpp"]
+	path = lib/socket.io-client-cpp
+	url = https://github.com/socketio/socket.io-client-cpp.git
+[submodule "lib/rapidjson"]
+	path = lib/rapidjson
+	url = https://github.com/miloyip/rapidjson.git
